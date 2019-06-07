@@ -1,7 +1,7 @@
 n=int(input())
-a=n%11
+a=n%111
 if a==0:
-      print("yes")
+print("yes")
 else:
-      print("no")
+print("no")
       
